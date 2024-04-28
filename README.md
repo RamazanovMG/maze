@@ -3,4 +3,4 @@
 For installation, run **make install** or open CMakeLists.txt file with QT creating, configuring for version 6.5.1
 
 
-[maze.webm](https://github.com/RamazanovMG/maze/assets/48622603/fb8cc937-0da1-45a3-86ce-bd72fcf3ba39)
+[maze.webm](https://github.com/RamazanovMG/maze/assets/48622603/9e8aa414-3bb2-4840-8a52-bdcb5a9ad567)
